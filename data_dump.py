@@ -23,6 +23,4 @@ if __name__=="__main__":
     client[DATABASE_NAME][COLLECTION_NAME].Insert_many(jason_record)
 
 
-h
-
 

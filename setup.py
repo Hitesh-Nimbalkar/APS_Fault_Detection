@@ -23,5 +23,5 @@ setup(
     author="ineuron",
     author_email="nimbalkarhitesh@gmail.com",
     packages = find_packages(),
-    install_requires=get_requirements(),
+    install_requires=get_requirements(),#["pymongo==4.2.0"],
 )
