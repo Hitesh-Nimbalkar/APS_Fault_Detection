@@ -12,3 +12,4 @@ class ENVIRONMENTAL_VARIABLE:
 env_var=ENVIRONMENTAL_VARIABLE()
 
 mongo_client=pymongo.MongoClient(env_var.mongo_db_url)
+TARGET_COLUMN = "class"
