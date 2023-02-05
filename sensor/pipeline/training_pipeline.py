@@ -48,7 +48,7 @@ def start_training_pipeline():
         model_trainer_artifact=model_trainer_artifact)
         model_eval_artifact = model_eval.initiate_model_evaluation()
         
-        #model pusher
+        #Model pusher
         model_pusher_config = config_entity.ModelPusherConfig(training_pipeline_config)
         
         model_pusher = ModelPusher(model_pusher_config=model_pusher_config, 
