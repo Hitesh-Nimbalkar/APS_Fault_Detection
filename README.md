@@ -11,6 +11,10 @@ The problem is to reduce the cost due to unnecessary repairs. So it is required 
 ## Project_Overview 
 
 
+### Training Pipeline 
+![Training_Pipeline](https://user-images.githubusercontent.com/109200332/225400692-4b1f7725-d9aa-402c-af47-f2bead839adf.png)
+
+
 ![Sensor ](https://user-images.githubusercontent.com/109200332/225382868-ded182fe-e0ca-4f0e-9298-2036273f3d9c.png)
 
 ## Data Ingestion 
