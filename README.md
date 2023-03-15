@@ -32,7 +32,9 @@ Cost 1 = 10 and Cost 2 = 500
 
 
 ### Training Pipeline 
-![Training_Pipeline](https://user-images.githubusercontent.com/109200332/225400692-4b1f7725-d9aa-402c-af47-f2bead839adf.png)
+
+![Training_Pipeline](https://user-images.githubusercontent.com/109200332/225405968-6941f370-edbd-4557-9f5a-678970de893b.png)
+
 
 
 ![Sensor ](https://user-images.githubusercontent.com/109200332/225382868-ded182fe-e0ca-4f0e-9298-2036273f3d9c.png)
