@@ -1,15 +1,54 @@
-# neurolab-mongo-python
+# Data_Ingestion
 
-![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
+## Export_data 
 
-### Step 1 - Install the requirements
+### Data_Frame 
 
-```bash
-pip install -r requirements.txt
-```
+- Data_access
 
-### Step 2 - Run main.py file
+	- SensorData
 
-```bash
-python main.py
-```
+		- Database_name
+		- Collection_name
+
+### Feature_Store.csv
+
+## Schema check 
+
+## Train_Test_split
+
+### train.csv
+
+### test.csv
+
+## Data_ingestion_Config
+
+Path of the files 
+
+Artifact_directory 
+Data_ingestion_directory 
+Feature store File Path 
+Training_file_path 
+Testing_File_path 
+train_test_split_ratio
+collection_name 
+
+### Artifact_directory 
+
+- Train_test_split_ratio
+- Data_Ingestion_dir
+
+	- Data_ingestion_directory
+
+		- training_file
+		- testing_file
+
+	- Feature_store 
+
+- Collection_name 
+
+## Data_Ingestion_artifact
+
+### Subtopic 1
+
+### Subtopic 2
