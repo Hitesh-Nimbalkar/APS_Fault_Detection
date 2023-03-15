@@ -15,4 +15,5 @@
 
 
 ## Model trainer 
-![Model_Trainer](https://user-images.githubusercontent.com/109200332/225366244-6743d5fc-917d-4f7c-86a1-6d08b85d86b8.png)
+
+![Model_Trainer](https://user-images.githubusercontent.com/109200332/225367812-d013cd92-ea09-4b1d-8301-7dd1a24d88b8.png)
