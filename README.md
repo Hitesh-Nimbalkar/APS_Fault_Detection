@@ -57,4 +57,9 @@ Cost 1 = 10 and Cost 2 = 500
 ## Model trainer 
 ![Model_Trainer](https://user-images.githubusercontent.com/109200332/225368082-5010e0dd-5f4b-47de-869c-06a599ac0f21.png)
 
+## Model Evaluation
+![Model Evaluation](https://user-images.githubusercontent.com/109200332/225518126-fa438e53-db0b-40c6-82e6-e1926f3a8e8e.png)
+
+
+
 
