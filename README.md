@@ -1,4 +1,4 @@
-## Problem statement.
+
    ## Data: Sensor Data
 
 ### Problem statement :
