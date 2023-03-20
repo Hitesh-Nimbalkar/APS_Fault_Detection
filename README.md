@@ -18,11 +18,11 @@ Cost 1 = 10 and Cost 2 = 500
 
 
 ## Tech Stack Used
-   Python
-   FastAPI
-   Machine learning algorithms
-   Docker
-   MongoDB
+  1. Python
+  2. FastAPI
+  3. Machine learning algorithms
+  4. Docker
+  5. MongoDB
 
 
 
