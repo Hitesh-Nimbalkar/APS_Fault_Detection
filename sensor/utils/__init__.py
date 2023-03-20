@@ -7,6 +7,7 @@ from sensor.logger import logging
 from sensor.exception import SensorException
 import yaml
 import numpy as np
+import dill
 
 def get_collection_as_dataframe(database_name:str,collection_name:str)->pd.DataFrame():
     """ 
