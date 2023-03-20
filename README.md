@@ -17,7 +17,12 @@ Cost 1 = 10 and Cost 2 = 500
 - From the above problem statement we could observe that, we have to reduce false positives and false negatives. More importantly we have to **reduce false negatives, since cost incurred due to false negative is 50 times higher than the false positives.**
 
 
-
+## Tech Stack Used
+   Python
+   FastAPI
+   Machine learning algorithms
+   Docker
+   MongoDB
 
 
 
