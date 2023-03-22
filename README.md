@@ -7,6 +7,14 @@ The system in focus is the Air Pressure system (APS) which generates pressurized
 
 The problem is to reduce the cost due to unnecessary repairs. So it is required to minimize the false predictions.
 
+     Predicted class |      True class       |
+                     |    pos    |    neg    |
+     -----------------------------------------
+      pos            |     -     |  Cost_1   |
+     -----------------------------------------
+      neg            |  Cost_2   |     -     |
+     -----------------------------------------
+
 
 Cost 1 = 10 and Cost 2 = 500
 
